@@ -1,3 +1,3 @@
 # antd-goo-tools
 
-Tools for Ant Design of React.
+Tools for Ant Goo Design of React.
