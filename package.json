@@ -1,24 +1,24 @@
 {
-  "name": "antd-tools",
-  "version": "6.5.0",
-  "description": "tools for ant design",
+  "name": "antd-goo-tools",
+  "version": "1.0.0",
+  "description": "",
   "keywords": [
     "react",
     "tools"
   ],
-  "homepage": "http://github.com/ant-design/antd-tools",
-  "author": "yiminghe@gmail.com",
+  "homepage": "http://github.com/sdgoo/antd-goo-tools",
+  "author": "",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ant-design/antd-tools.git"
+    "url": "git@github.com:sdgoo/antd-goo-tools.git"
   },
   "bugs": {
-    "url": "http://github.com/ant-design/antd-tools/issues"
+    "url": "http://github.com/sdgoo/antd-goo-tools/issues"
   },
   "license": "MIT",
   "bin": {
-    "antd-tools": "./bin/antd-tools.js",
-    "antd-tools-run": "./bin/antd-tools-run.js"
+    "antd-goo-tools": "./bin/antd-goo-tools.js",
+    "antd-goo-tools-run": "./bin/antd-goo-tools-run.js"
   },
   "scripts": {
     "pub": "git push origin && npm publish",
